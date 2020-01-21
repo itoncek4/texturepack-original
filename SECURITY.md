@@ -1,15 +1,5 @@
 # Bezpečnostní Info
 
-## Podporované verze
-
-Tento repozitář podporuje následující verze:
-
-| Verze   | Podpora            |
-| ------- | ------------------ |
-| 1.13>   | :x:                |
-| 1.12-.2 | :white_check_mark: |
-| <1.12   | :x:                |
-
 ## Nahlášení chyb
 
 Jednoduchý způsob jak nachlásit **chybu**:
